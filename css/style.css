@@ -1,0 +1,264 @@
+body{
+    margin: 0px;
+    text-align: center;
+    padding: 0px;
+   
+}
+div.top{
+    height: 800px;
+    width: 100%;
+    background-image:url('../image/background_01.png');
+    background-repeat: no-repeat;
+    color: rgba(255, 255, 255, 0.74);
+    position: relative;
+    padding: 0px;
+    background-size: cover;
+    margin: 0px;
+    top: 0px;
+    border: 1px white solid;
+}
+div.titleTop{
+    position: relative;
+    top: 100px;
+}
+div.textTop{
+    position: relative;
+    top: 150px;
+}
+p.titleTop{
+    font-size: 40px;
+    font-weight: 100;
+   
+}
+p.textTop{
+    font-size: 20px;
+    font: weight 100;
+}
+p.tableTop{
+    
+    font-weight: 100;
+}
+div.tableTop{
+    position: relative;
+    top: 200px;
+    border: 1px rgba(255, 255, 255, 0.3) solid;
+    width: 65%;
+    height: 200px;
+    margin:auto;
+    padding: 50px;
+}
+
+form.sign{
+    opacity: 0;
+    float: left;
+    position: relative;
+    left: 70px;
+    top:0px;
+    
+}
+button.signUp{
+    position: relative;
+    top: -12px;
+    left: 80px;
+    width: 150px;
+    height: 50px;
+}
+td.blant{
+    width:50px;
+    border: 100px; 
+}
+td.textTop{
+    border: 1px rgba(255, 255, 255, 0.3) solid;
+    position: relative;
+    top: 40px;
+    left: 10px;
+    width: 300px;
+    height: 50px;
+    margin-left: 50px;  
+}
+div.part1{
+    position: relative;
+    top: 100px;
+}
+table.leftPart1{
+    width: 30%;
+    margin: 10% 5% 20% 15%;
+    /* float: left; */
+    position: relative;
+}
+th.leftPart1{
+    text-align: left;
+}
+td.leftPart1{
+    text-align: left;
+}
+table.rightPart1{
+    width: 30%;
+    margin: 10% 5% 20% 15%;
+    position: absolute;
+    top:30%;
+    left: 45%;
+}
+th.rightPart1{
+    text-align: left;
+}
+td.rightPart1{
+    text-align: left;
+}
+div.part2{
+    background-image: url("../image/background2.png");
+    background-repeat:no-repeat; 
+    width: 100%;
+    background-size: cover;
+    height: 1000px;
+}
+div.leftPart2{
+    position: relative;
+    left:10%;
+    top: 40%;
+    width: 40%;
+    color: aliceblue;
+}
+div.rightPart2{
+    background-image: url("../image/IPad.png");
+    background-repeat: no-repeat;
+    /* left: 50%; */
+    position: relative;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    left: 55%;
+    height: 70%;
+    width: 45%;
+    top: -10%;
+}
+div.tablePart2{
+    position: relative;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    background-color: white;
+    left: 10%;
+    top: 5%;
+    height: 90%;
+}
+table.textPart2{
+    position: relative;
+    top: 25%;
+    left: 10%;
+}
+button.buttonPart2{
+    position: relative;
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+div.part3{
+    position: relative;
+    height: 300px;
+    padding: 7%;
+    border-bottom: 1px rgb(173, 169, 169) solid; 
+}
+p.titlePart3{
+    font-size: 40px;
+}
+table.part3{
+    position: relative;
+    width: 70%;
+    left: 15%;
+    top: -250px;
+    
+}
+table.part4{
+    position: relative;
+    width: 60%;
+    left: 10%;
+    top: -50px;
+    padding: 80px;
+    
+}
+div.part5{
+    border-top: 1px rgb(173, 169, 169) solid; 
+}
+table.part5{
+    position: relative;
+    width: 60%;
+    left: 20%;
+}
+div.part6{
+    height: 800px;
+    border-top: 1px rgb(173, 169, 169) solid;
+}
+table.leftPart6{
+    position: relative;
+    width: 30%;
+    height: 80%;
+    left: 18%;
+    border: 1px rgb(221, 217, 217) solid;
+    margin: 40px;
+    top: 40px;
+}
+table.rightPart6{
+    position: relative;
+    width: 25%;
+    height: 90%;
+    left: 60%;
+    top: -680px;
+    text-align: left;
+    font-size: 20px;
+    margin: -10px;
+    padding: 0px;
+}
+th.line1{
+    font-size: 50px;
+    font-weight: 100;
+}
+td.titlePart6{
+    position: relative;
+    height: 15%;
+    top: 10px;
+    font-size: 20px;
+}
+#emailPart6,#Subject{
+    position: relative;
+    width: 75%;
+    height: 50%;
+    padding: 20px;
+    
+}
+#Subject{
+    position: relative;
+    top: -30px;
+}
+#Message{
+    width: 75%;
+    height: 140%;
+    padding: 20px;
+    margin: 0%;
+}
+#part6{
+    width: 85%;
+    height: 50%;
+    padding: 20px;
+    background-color: black;
+    color: #fff;
+    position: relative;
+    top: 10px;
+}
+div.bottom{
+    height:400px ;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.911);
+    color: white;
+    padding: 100px;
+}
+
+table.bottom{
+    position: relative;
+    width: 80%;
+    text-align: left;
+    height: 80%;
+    font-size: 15px;
+    padding: 0%;
+}
